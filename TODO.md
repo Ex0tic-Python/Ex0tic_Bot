@@ -2,21 +2,20 @@
 
 - [ ] Finish polishing and making 'Other' Cog (Keep in current state, add features later)  
 - [ ] Finish polishing and making 'Utilities' Cog (Keep in current state, add features later)  
-- [ ] Finish polishing and making 'Fun' Cog (Keep in current state, add features later)  
+- [x] Finish polishing and making 'Fun' Cog (Keep in current state, add features later)  
 - [ ] Finish polishing and making 'Moderation' Cog (Keep in current state, add features later)  
 - [ ] Finish polishing and making 'Currency' Cog (Keep in current state, add features later)  
 - [ ] Switch from JSON to a Database (aiosqlite)
 - [ ] Make a Main.py file  
 - [ ] Revise 'Other' Cog to for public release  
 - [ ] Revise 'Utilities' Cog for public release  
-- [ ] Revise 'Fun' Cog to for public release  
+- [x] Revise 'Fun' Cog to for public release  
 - [ ] Revise 'Moderation' Cog to for public release  
 - [ ] Revise 'Currency' Cog to for public release  
 - [ ] Add features to 'Moderation' Cog  
-- [ ] Add features to 'Currency' Cog  
-- [ ] (**Optional**) Remove 'Fun' Cog if too empty  
+- [ ] Add features to 'Currency' Cog   
 - [ ] Add custom Help command
-- [ ] Upload Bot  
+- [ ] Upload Bot
 
 ## Future TODO
 
