@@ -15,6 +15,7 @@
 - [ ] Add features to 'Moderation' Cog  
 - [ ] Add features to 'Currency' Cog  
 - [ ] (**Optional**) Remove 'Fun' Cog if too empty  
+- [ ] Add custom Help command
 - [ ] Upload Bot  
 
 ## Future TODO
