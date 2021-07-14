@@ -86,13 +86,13 @@ class Fun(commands.Cog):
                         await ctx.send(
                             "I'm a bot and have no feelings so compliments mean nothing to me. But I'll still take it <3"
                         )
-                    
+
                     elif user.bot:
                         await ctx.send(f"{user.mention}, you are the most useful bot I've ever seen.")
-                    
+
                     elif user.id in Globals.dev_ids:
                         await ctx.send(f"{user.mention}, you are a great programmer. Thanks for programming so well")
-                    
+
                     else:
                         final_compliment = choice(compliments_tuple)
                         final_compliment = final_compliment.replace('@@@', user.name)
@@ -107,6 +107,7 @@ class Fun(commands.Cog):
             await ctx.send(
                 f"{ctx.author.mention}, you are missing the <user_id> parameter. For more help, use `E-help compliment`\nCommand Structure: E-compliment <user_id>"
             )
+
 
     # Command that insults a mentioned user using a random insullt from a text file
     @commands.command(
@@ -133,10 +134,10 @@ class Fun(commands.Cog):
 
                     if user.id == Globals.exo_py.user_id:
                         await ctx.send("You may not insult my creator.")
-                    
+
                     elif user.id == Globals.exo_bot.user_id:
                         await ctx.send("I'm not just gonna insult myself.")
-                    
+
                     elif user.bot:
                         await ctx.send(f"{user.mention}, you are the most useless bot I've ever seen.")
                     else:
