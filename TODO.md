@@ -21,6 +21,7 @@
 
 - [ ] Add more ways to get money in the 'Currency' Cog (Gambling, Daily, Robbing, etc.)
 - [ ] Make a warning system for the 'Moderation' Cog
+- [ ] Add 'E-rand' command to 'Fun' Cog
 
 ## Maybe TODO
 
