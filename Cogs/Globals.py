@@ -11,6 +11,17 @@ from os import path
 # ---------------------------------------------------------------------------------------------------------
 
 # Variables
+# Makes a class which houses some info about important users
+class Profiles:
+    def __init__(self, username, user_discriminator, user_id):
+        self.username = username
+        self.discriminator = discriminator
+        self.user_id = user_id
+
+# Makes some objects in the class
+exo_bot = Profiles('Ex0tic_Python', 7571, 546390125425459211)
+exo_py - Profiles('Ex0tic_Bot', 2986, 842537874544132157)
+
 # Path to bots image
 bot_pfp = r'C:\Users\AnibalF6725\Documents\Code\Python\DiscordBot\Ex0tic_Bot.jpg'
 
@@ -31,13 +42,13 @@ dev_ids = (546390125425459211)
 
 # Dictionary that houses emojis the bot uses
 emojis = {
-    'exotic_bot':'<:Ex0tic_Bot:864541148647391232>',
-    'discord_online':'<:discord_online:864533505534197821>',
-    'discord_offline':'<:discord_offline:864533501066608660>',
-    'discord_typing':'<a:discord_typing:864533501189423144>',
-    'discord_message':'<:discord_message:864548909152731147>',
-    'database':'<:database:864548909199392798>',
-    'spinning_cog':'<a:spinning_cog:864580163021963294>'
+    'exotic_bot': '<:Ex0tic_Bot:864541148647391232>',
+    'discord_online': '<:discord_online:864533505534197821>',
+    'discord_offline': '<:discord_offline:864533501066608660>',
+    'discord_typing': '<a:discord_typing:864533501189423144>',
+    'discord_message': '<:discord_message:864548909152731147>',
+    'database': '<:database:864548909199392798>',
+    'spinning_cog': '<a:spinning_cog:864580163021963294>'
 }
 
 # ---------------------------------------------------------------------------------------------------------
