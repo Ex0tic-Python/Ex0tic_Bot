@@ -14,6 +14,4 @@ Anyways, as for the bot, I would like it to server a variety of purposes, from M
 While some may like its Moderation aspect, others may prefer its fun commands and not use the Moderation aspect of the bot all together, which is intended. The bot is made to suite the needs of servers with flexibility in mind. 
 My bot will most likely not bring anything new to the table as I'm focusing on making it simple to use and versatile.  
 But this doesn't mean there is no room for new features.  
-Currently, I am developing the currency and Moderation features of the bot, with intentions of adding new features all the time and improving the already existing ones.
-
-If you have any requests or ideas, let me know via this [Google Form](https://docs.google.com/forms/d/1fgmTcXcDql3v-lGGU5l4ZrGsvlLBdpdytDExqVCG6IM/edit)
+Because I'm on vacation till the 26th, I will most likely not touch this repo until I get back because programming on this computer sucks :(
