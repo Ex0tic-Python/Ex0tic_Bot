@@ -15,22 +15,26 @@
 - [ ] Add features to 'Moderation' Cog  
 - [ ] Add features to 'Currency' Cog   
 - [ ] Add custom Help command
-- [ ] Upload Bot
+
+## Command TODO
+- [ ] Pillow Lib Commands
+- [ ] Casino Games
+- [ ] General Games (Connect 4, Typing Speed, etc.)
 
 ## Future TODO
 
 - [ ] Add more ways to get money in the 'Currency' Cog (Gambling, Daily, Robbing, etc.)
 - [ ] Make a warning system for the 'Moderation' Cog
-- [ ] Add 'E-rand' command to 'Fun' Cog
 - [ ] Turn get_info command to a general purpose command
 (think this)
 ```
 get id
-check id for membr
+check id for member
 if false, check for guild
 if also false check for channel
 etc
 ```
+- [ ] Upload Bot
 
 ## Maybe TODO
 
