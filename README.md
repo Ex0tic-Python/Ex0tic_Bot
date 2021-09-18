@@ -1,5 +1,5 @@
 # Ex0tic_Bot
-Ex0tic_Bot is a multipurpose bot written in Python that I made because I was bored.
+Ex0tic_Bot is a multipurpose bot written in Python using [Nextcord](https://github.com/nextcord/nextcord) that I made because I was bored.
 
 ---
 
@@ -10,8 +10,7 @@ I ask this of you, the reader, because it would cost you the experience of makin
 
 ---
 
-Anyways, as for the bot, I would like it to server a variety of purposes, from Moderation, to a an Economy System, I want the bot to be a perfect addition to any server with a range of different purposes.  
+Anyways, as for the bot, I would like it to server a variety of purposes, from Moderation, to an Economy System, I want the bot to be a perfect addition to any server with a range of different purposes.  
 While some may like its Moderation aspect, others may prefer its fun commands and not use the Moderation aspect of the bot all together, which is intended. The bot is made to suite the needs of servers with flexibility in mind. 
 My bot will most likely not bring anything new to the table as I'm focusing on making it simple to use and versatile.  
 But this doesn't mean there is no room for new features.  
-
